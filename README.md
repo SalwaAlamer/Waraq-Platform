@@ -181,5 +181,5 @@ It is designed as a scalable foundation for AI-assisted assessment, not just a o
 Computer Science Graduate, Jazan University  
 AI & Computer Vision
 
-- LinkedIn: `https://www.linkedin.com/in/your-profile`
-- GitHub: `https://github.com/your-username`
+- LinkedIn: `https://www.linkedin.com/in/salwa-al-ameer`
+- GitHub: `https://github.com/SalwaAlamer`
