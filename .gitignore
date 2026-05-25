@@ -1,0 +1,13 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+*.db
+uploads/
+.easyocr/
+.venv/
+node_modules/
+.next/
+dist/
+build/
+.DS_Store
